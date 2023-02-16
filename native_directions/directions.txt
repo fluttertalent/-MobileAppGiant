@@ -1,0 +1,2 @@
+splashscreen => flutter pub run flutter_native_splash:create
+app icon => flutter pub run flutter_launcher_icons:main

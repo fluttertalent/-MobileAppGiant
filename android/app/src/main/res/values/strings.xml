@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Sneaks4sure"</string>
+    <string name="facebook_app_id">1391486871376216</string>
+    <string name="fb_login_protocol_scheme">fb1391486871376216</string>
+    <!-- <string name="facebook_client_token">630067385189606|3Ez8GGpCQlXccjgDVlX4fghVRKw</string> -->
+    <string name="facebook_client_token">fa2144c057d284dbe602f0fe209bfeec</string>
+</resources>

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "779499834281",
+    "project_id": "sneaks4sure-1088",
+    "storage_bucket": "sneaks4sure-1088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779499834281:android:ab58de092e238c0cde52b8",
+        "android_client_info": {
+          "package_name": "com.example.s4s_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779499834281-hsi8nkiig6lieblqlph9m114tkt8vb0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s4s_mobileapp",
+            "certificate_hash": "79beaf141187258a44cee568e7643ccc7514d178"
+          }
+        },
+        {
+          "client_id": "779499834281-m32b4uudumeug7ssijfarahafg2ro6sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s4s_mobileapp",
+            "certificate_hash": "79b72bbcbeaf03622b824bb11e3a37da0ba82e07"
+          }
+        },
+        {
+          "client_id": "779499834281-2ijvsjhs91nj435vmu2dk94st0ocviko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLdvqgLBepbFIRFZ2lOt61GCvPhZVCyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779499834281-2ijvsjhs91nj435vmu2dk94st0ocviko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779499834281-567i05q44pddogjdsernf4hq8a8p4g37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.s4sMobileapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
